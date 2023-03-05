@@ -1,18 +1,18 @@
-### TypeScript & API
+# TypeScript & API
 
 ## Objectius generals
 
-# Entendre l'avantatge de TypeScript i aprendre la seva sintaxi.
+1. Entendre l'avantatge de TypeScript i aprendre la seva sintaxi.
 
-# Aprendre a consumir dades d'una API Rest.
+2. Aprendre a consumir dades d'una API Rest.
 
 
 ## Objectius específics
 
-# Programar la teva primera aplicació web amb TypeScript, fent servir el tipat fort.
+1. Programar la teva primera aplicació web amb TypeScript, fent servir el tipat fort.
 
-# Entendre l'ecosistema web: front end, back end, base de dades, API.
+2. Entendre l'ecosistema web: front end, back end, base de dades, API.
 
-# Saber llegir documentació d'una API.
+3. Saber llegir documentació d'una API.
 
-# Fer proves d'una API amb Postman.
+4. Fer proves d'una API amb Postman.
