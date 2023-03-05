@@ -1,0 +1,47 @@
+/* Crear un contenedor con un fondo blanco y transparencia */
+.container {
+  color: whitesmoke;
+  background-image: url('./img/blob.svg');
+  background-size: contain;
+  background-color: rgba(255, 255, 255, 0.8);
+  height: 1000px;
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
+  display: flex; /* habilitar flexbox */
+  flex-direction: column; /* establecer la dirección de los elementos hijos en columna */
+  align-items: center; /* centrado verticalmente */
+  justify-content: center; /* centrado horizontalmente */
+}
+
+/*Estilo para weather*/
+#weather-container {
+  color: black;
+  position: absolute;
+  top: 10;
+  left: 10;
+}
+
+/* Estilo para el boton */
+.container p {
+  color: black;
+  font-size: 1,5em;
+}
+
+/* Estilo para el h1 */
+.container h1 {
+  color: whitesmoke;
+  font-size: 2em;
+}
+
+/* Estilo para el boton */
+.container button {
+  background-color: rgb(23, 157, 177);
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 10px;
+  font-size: 1em;
+  cursor: pointer;
+  margin-top: 1em;
+}
